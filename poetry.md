@@ -4,6 +4,8 @@ Poetry—
 Behind Uncertain Doors
 ----------------------
 
+**February 2012**
+
 The walk to work runs past a store,   
 with dollar books by a red door,   
 old wood, with paint that chips;  
@@ -28,6 +30,8 @@ My eyes are always home to thee.
 She Must Accept Some Swirling Ink
 ---------------------------------
 
+**May 2010**
+
 Before the caustic brute she cowers.  
 It shudders with stone and towers.  
 She's plain; Her simple orbs observe  
@@ -49,6 +53,8 @@ into her milk, and sigh, and drink.
 
 The Kingly State
 ----------------
+
+**October 2008**
 
 When from the moon, I look below,  
 Where thousands, standing for the show,  
