@@ -1,0 +1,28 @@
+body {
+	font-family: 'Buenard', Georgia, serif;
+	background: whitesmoke;
+	padding-left: 20px;
+}
+
+a {
+	color: teal;
+	text-decoration: none;
+}
+
+ul {
+	list-style: none;
+	margin-left: 0;
+	padding-left: 1em;
+	text-indent: 0;
+}
+
+li:before {
+	content: "»  ";
+}
+
+h1 {
+	margin: 0;
+	font-weight: 700;
+	font-size: 5em;
+	border-bottom: 3px solid black;
+}
