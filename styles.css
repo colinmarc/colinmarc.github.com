@@ -29,7 +29,6 @@ ul {
 	text-indent: 0;
 }
 
-
 #header {
 	border-bottom: 3px solid black;
 	overflow: hidden;
@@ -65,6 +64,12 @@ ul {
 	line-height: 14px;
 }
 
+/* deal with plugins that change to a link */
+#header ul li.phone * {
+	color: teal !important;
+	text-decoration: none !important;
+}
+
 #header ul li.phone:before {
    content: url('phone.png');
 }
@@ -79,6 +84,10 @@ ul {
 
 #header ul li.github:before {
    content: url('github.png');
+}
+
+#content li {
+	line-height: 1.5em;
 }
 
 #content li:before {

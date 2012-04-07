@@ -12,7 +12,8 @@ Current Interests
 
 - Evented servers
 - Single-page apps and frameworks
-- SPDY
+- [SPDY](http://dev.chromium.org/spdy)
+- [Iambic tetrameter](/poetry.html)
 
 Jobs (I'm looking)
 ------------------
