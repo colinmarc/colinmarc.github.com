@@ -1,27 +1,25 @@
 import sys
 import os
+import codecs
 from markdown2 import markdown
 
-HEADER = """
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-<link href='http://fonts.googleapis.com/css?family=Buenard:400,700' rel='stylesheet' type='text/css'>
-<link href="styles.css" rel="stylesheet"></link>
+with codecs.open('base.tmpl', encoding='UTF-8') as tmplfile:
+	template = tmplfile.read()
 
-"""
-
-def open_md_file(path):
-	with open(path, 'r') as mdfile:
+def makefile(path):
+	with codecs.open(path, encoding='UTF-8') as mdfile:
 		md = mdfile.read()
 	
-	html = HEADER + markdown(md)
+	html = template.replace(u'$content', markdown(md))
 	basename = os.path.basename(path).split('.')[0]
 	fname = basename + '.html'
 		
-	with open(fname, 'w') as out:
-		out.write(html.encode('utf8'))
+	with codecs.open(fname, encoding='UTF-8', mode='w') as out:
+		
+		out.write(html)
 		
 if __name__ == '__main__':
 	files = sys.argv[1:]
 	for f in files: 
-		open_md_file(f)
+		makefile(f)
 		

@@ -1,11 +1,20 @@
-
+<!doctype html>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <link href='http://fonts.googleapis.com/css?family=Buenard:400,700' rel='stylesheet' type='text/css'>
 <link href="styles.css" rel="stylesheet"></link>
 
-<h1>Poetry—</h1>
+<div id="header" class="container">
+	<h1>Colin Marc—</h1>
+	<ul>
+	  <li class="phone">774-277-9599</li>
+	  <li class="email"><a href="mailto:colinmarc@gmail.com">colinmarc@gmail.com</a></li>
+	  <li class="twitter"><a href="http://twitter.com/colinmarc">@colinmarc</a></li>
+	  <li class="github"><a href="http://github.com/colinmarc">github.com/colinmarc</a></li>
+	</ul>
+	<div id="tagline">aspiring <a href="/">programmer</a>/<a href="poetry.html">poet</a><span id="age"></span>.</div>
+</div>
 
-<h2>Behind Uncertain Doors</h2>
+<div id="content" class="container"><h2>Behind Uncertain Doors</h2>
 
 <p><strong>February 2012</strong></p>
 
@@ -77,3 +86,18 @@ I pick and choose which worlds to love. <br />
 I stare at her from far above. <br />
 I have that power as of late, <br />
 The crown is mine, the kingly state.  </p>
+</div>
+
+<div id="footer" class="container">
+	&copy; 2012 <a href="mailto:colinmarc@gmail.com">colinmarc@gmail.com</a>
+</footer>
+
+<script>
+	var birthday = new Date(1990, 0, 22);
+	var today = new Date();
+	var age = today.getFullYear() - birthday.getFullYear();
+	birthday.setFullYear(today.getFullYear());
+	if(today < birthday) age = age - 1;
+
+	document.getElementById('age').innerHTML = ', age ' + age;
+</script>

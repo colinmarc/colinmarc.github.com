@@ -4,9 +4,22 @@ body {
 	padding-left: 20px;
 }
 
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
 a {
 	color: teal;
 	text-decoration: none;
+}
+
+a:visited {
+	color: teal;
+}
+
+a:hover {
+	color: rgb(2, 88, 88);
 }
 
 ul {
@@ -16,14 +29,63 @@ ul {
 	text-indent: 0;
 }
 
-li:before {
+
+#header {
+	border-bottom: 3px solid black;
+	overflow: hidden;
+}
+
+#header h1 {
+	margin: 0;
+	font-weight: 700;
+	line-height: 80px;
+	font-size: 5em;
+	width: 500px;
+	float: left;
+	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+#tagline {
+	clear: left;
+	padding-left: 20px;
+}
+
+#header ul {
+	width: 200px;
+	float: right;
+	list-style-type: none;
+}
+
+#header ul li:before {
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	padding-right: 4px;
+	vertical-align: text-bottom;
+	line-height: 14px;
+}
+
+#header ul li.phone:before {
+   content: url('phone.png');
+}
+
+#header ul li.email:before {
+   content: url('email.png');
+}
+
+#header ul li.twitter:before {
+   content: url('twitter.png');
+}
+
+#header ul li.github:before {
+   content: url('github.png');
+}
+
+#content li:before {
 	content: "»  ";
 }
 
-h1 {
-	margin: 0;
-	font-weight: 700;
-	font-size: 5em;
-	padding-bottom: 10px;
-	border-bottom: 3px solid black;
+#footer {
+	border-top: 3px solid black;
+	padding: 10px 0;
 }

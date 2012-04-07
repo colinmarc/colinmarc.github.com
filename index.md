@@ -1,16 +1,3 @@
-Colin Marc—
-===========
-
-aspiring programmer/[poet](poetry.html), age 22.
-
-Contact
--------
-
-- 774-277-9599
-- colinmarc@gmail.com
-- [@colinmarc](http://twitter.com/colinmarc)
-- [github.com/colinmarc](http://github.com/colinmarc)
-
 Cool Projects
 -------------
 

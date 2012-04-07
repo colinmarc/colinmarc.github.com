@@ -1,6 +1,3 @@
-Poetry—
-=======
-
 Behind Uncertain Doors
 ----------------------
 
