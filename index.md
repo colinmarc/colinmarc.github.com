@@ -14,6 +14,11 @@ Current Interests
 - [SPDY](http://dev.chromium.org/spdy)
 - [Iambic tetrameter](/poetry.html)
 
+Writings
+--------
+
+- [Microwave Literacy](/literacy.html) - why everyone should learn to code
+
 Jobs
 ------------------
 
