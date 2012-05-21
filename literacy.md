@@ -1,5 +1,6 @@
 Microwave Literacy 
 ==================
+*May 2012*
 
 *(this is a quasi-rebuttal to Jeff Atwood's post
 ["Please Don't Learn to Code."](http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html). If you're bored of the topic, you might want to stop
@@ -40,7 +41,7 @@ car all speak, in one form or another: code. Well, sort of.
 Let me back up a second. Let's say I want to pop some popcorn for a night of
 sniffling over *The Notebook*. My microwave's interface is extremely low-level.
 The information it really wants is "how long do I cook this for? How much power
-do I use?". To give it that information, I press a bunch of digits. I mess that
+do I use?". To give it that information, I press a bunch of digits - I mess that
 part up pretty often. I'm converting the information into mechanical symbols,
 and then entering those symbols physically, and then the microwave is
 converting that information back into the concepts it understands.
@@ -51,25 +52,27 @@ type this:
 
 	{ 'time': 200, 'power': 3 }
 
-and then hit send. But effectively, that would allow a seperation of concerns.
-Allow that, and there are now two parts of the process of popping popcorn. The
-microwave speaks exactly the concepts it needs to, and I can communicate those
-concepts however I want: hand-written JSON, a web/mobile app (microwave.ly?),
-brain-reading alien slugs that connect to wifi, whatever. To a programmer, the
-benefits of this are obvious.
+and then hit send. But effectively, that would allow a separation of concerns.
+Now there are two parts to the process of popping popcorn. The microwave speaks
+exactly the concepts it needs to, and I can communicate those concepts however
+I want: hand-written JSON, a web/mobile app (microwave.ly?), brain-reading
+alien slugs that connect to wifi, whatever. To a programmer, the benefits of
+this are obvious.
 
 (This doesn't just apply to devices, of course. People have been writing web
 apps services with APIs and reaping the benefits for years.)
 
-Ok, so what do we need to get there? It's simple - everyone needs to learn to
-code. No big deal, right? Common technological literacy will allow people
-making the microwaves to expose an API instead of adding clunky buttons. I
-think Mr. and Mrs. Microwave would rather create simpler devices and not worry
-about creating a user interface. Maybe that's too optimistic, because API
-design is hard too.
+What would convice Mr. and Mrs. Microwave to make that microwave? It's simple -
+everyone needs to learn to code.
 
-This isn't a call to action. We surround ourselves with devices and services,
-so I think that we'll naturally develop a language to speak with them. But
-knowing how to program puts you ahead of the curve. So please, learn to
-code!
+If everyone understood programming, at least a little, manufacturers would feel
+safe exposing an API and creating simpler devices. I think, given the choice,
+they'd rather not have to worry about crafting a terrible a user interface.
+You would see more devices being networked and hackable, and that's a really
+good thing for everyone.
+
+And you will! This isn't meant to be a call to action. We surround ourselves
+with devices and services, so I think that we'll naturally develop a language
+to speak with them. That said, knowing how to program puts you ahead of the
+curve. So please, learn to code!
 
