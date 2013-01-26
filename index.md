@@ -1,18 +1,10 @@
 Cool Projects
 -------------
 
+- [impala-ruby](http://github.com/colinmarc/impala-ruby) - A ruby client for Cloudera's Impala
 - [python-spdy](http://github.com/colinmarc/python-spdy) - pure python spdy parser/muxer/demuxer
-- [zodiac](http://github.com/colinmarc/zodiac) - better monkeypatching in python
 - [denmark](http://github.com/colinmarc/denmark) - command line utility for viewing markdown
 - [python issue #14204](http://hg.python.org/cpython/rev/2514a4e2b3ce) - I added NPN support to the ssl library in cpython
-
-Current Interests
------------------
-
-- Evented servers
-- Single-page apps and frameworks
-- [SPDY](http://dev.chromium.org/spdy)
-- [Iambic tetrameter](/poetry.html)
 
 Writings
 --------
