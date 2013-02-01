@@ -56,12 +56,23 @@ ul {
 }
 
 #header ul li:before {
-	display: inline-block;
-	width: 14px;
-	height: 14px;
-	padding-right: 4px;
-	vertical-align: text-bottom;
-	line-height: 14px;
+    display: inline-block;
+    width: 14px;
+    height: 14px;
+    padding-right: 4px;
+    vertical-align: text-bottom;
+    line-height: 14px;
+}
+
+@font-face {
+    font-family: 'FontAwesome';
+    src:
+        url('fontawesome-webfont.woff') format('woff'),
+        url('fontawesome-webfont.ttf') format('truetype'),
+        url('fontawesome-webfont.svg#trelliconsregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-size: 10px;
 }
 
 /* deal with plugins that change to a link */
@@ -71,19 +82,25 @@ ul {
 }
 
 #header ul li.phone:before {
-   content: url('phone.png');
+    font-family: 'FontAwesome';
+    content: "\f095";
 }
 
 #header ul li.email:before {
-   content: url('email.png');
+    font-family: 'FontAwesome';
+    content: "\f003";
+    font-size: 13px;
 }
 
 #header ul li.twitter:before {
-   content: url('twitter.png');
+    font-family: 'FontAwesome';
+    content: "\f099";
+    font-size: 13px;
 }
 
 #header ul li.github:before {
-   content: url('github.png');
+    font-family: 'FontAwesome';
+    content: "\f09b";
 }
 
 #content li {
