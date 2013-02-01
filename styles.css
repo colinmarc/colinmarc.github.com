@@ -36,6 +36,7 @@ ul {
 
 #header h1 {
     margin: 0;
+    margin-bottom: -5px;
     font-weight: 700;
     line-height: 80px;
     font-size: 5em;
@@ -45,6 +46,7 @@ ul {
 }
 
 #tagline {
+    margin-bottom: 5px;
     clear: left;
     padding-left: 20px;
 }
