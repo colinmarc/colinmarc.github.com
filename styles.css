@@ -75,17 +75,6 @@ ul {
     font-size: 10px;
 }
 
-/* deal with plugins that change to a link */
-#header ul li.phone * {
-    color: teal !important;
-    text-decoration: none !important;
-}
-
-#header ul li.phone:before {
-    font-family: 'FontAwesome';
-    content: "\f095";
-}
-
 #header ul li.email:before {
     font-family: 'FontAwesome';
     content: "\f003";
