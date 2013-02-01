@@ -1,58 +1,58 @@
 body {
-	font-family: 'Buenard', Georgia, serif;
-	background: whitesmoke;
-	padding-left: 20px;
+    font-family: 'Buenard', Georgia, serif;
+    background: whitesmoke;
+    padding-left: 20px;
 }
 
 .container {
-	width: 960px;
-	margin: 0 auto;
+    width: 960px;
+    margin: 0 auto;
 }
 
 a {
-	color: teal;
-	text-decoration: none;
+    color: teal;
+    text-decoration: none;
 }
 
 a:visited {
-	color: teal;
+    color: teal;
 }
 
 a:hover {
-	color: rgb(2, 88, 88);
+    color: rgb(2, 88, 88);
 }
 
 ul {
-	list-style: none;
-	margin-left: 0;
-	padding-left: 1em;
-	text-indent: 0;
+    list-style: none;
+    margin-left: 0;
+    padding-left: 1em;
+    text-indent: 0;
 }
 
 #header {
-	border-bottom: 3px solid black;
-	overflow: hidden;
+    border-bottom: 3px solid black;
+    overflow: hidden;
 }
 
 #header h1 {
-	margin: 0;
-	font-weight: 700;
-	line-height: 80px;
-	font-size: 5em;
-	width: 500px;
-	float: left;
-	text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 0;
+    font-weight: 700;
+    line-height: 80px;
+    font-size: 5em;
+    width: 500px;
+    float: left;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 #tagline {
-	clear: left;
-	padding-left: 20px;
+    clear: left;
+    padding-left: 20px;
 }
 
 #header ul {
-	width: 200px;
-	float: right;
-	list-style-type: none;
+    width: 200px;
+    float: right;
+    list-style-type: none;
 }
 
 #header ul li:before {
@@ -77,8 +77,8 @@ ul {
 
 /* deal with plugins that change to a link */
 #header ul li.phone * {
-	color: teal !important;
-	text-decoration: none !important;
+    color: teal !important;
+    text-decoration: none !important;
 }
 
 #header ul li.phone:before {
@@ -104,14 +104,14 @@ ul {
 }
 
 #content li {
-	line-height: 1.5em;
+    line-height: 1.5em;
 }
 
 #content li:before {
-	content: "»  ";
+    content: "»  ";
 }
 
 #footer {
-	border-top: 3px solid black;
-	padding: 10px 0;
+    border-top: 3px solid black;
+    padding: 10px 0;
 }
