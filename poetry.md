@@ -3,7 +3,7 @@ Away
 
 **March 2013**
 
-his eyes fell like his broken sighs  
+his eyes fell, like his broken sighs  
 or, perhaps, raised, to blue-black skies  
 where angels only he could reach  
 and very few would even seek  
