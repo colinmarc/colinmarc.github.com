@@ -1,0 +1,59 @@
+<!doctype html>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<link href='http://fonts.googleapis.com/css?family=Buenard:400,700' rel='stylesheet' type='text/css'>
+<link href="styles.css" rel="stylesheet"></link>
+
+<title>Colin Marc—</title>
+
+<div id="header" class="container">
+  <h1>Colin Marc—</h1>
+  <ul>
+    <li class="email"><a href="mailto:colinmarc@gmail.com">colinmarc@gmail.com</a></li>
+    <li class="twitter"><a href="http://twitter.com/colinmarc">@colinmarc</a></li>
+    <li class="github"><a href="http://github.com/colinmarc">github.com/colinmarc</a></li>
+  </ul>
+  <div id="tagline">aspiring <a href="/">programmer</a>/<a id="poetry" href="/">poet</a><span id="age"></span>.</div>
+</div>
+
+<div id="content" class="container"><h2>Behind Uncertain Doors</h2>
+
+<p><strong>February 2012</strong></p>
+
+<p>The walk to work runs past a store, <br />
+with dollar books by a red door, <br />
+old wood, with paint that chips; <br />
+the flakes stick to the concrete steps, <br />
+and pool beneath the smokey windowpanes. <br />
+This front obscures what it contains; <br />
+which might be nothing, after all, <br />
+beyond a long and shadowed hall.  </p>
+
+<p>But if, tomorrow, it were gone? <br />
+If behind a well-kept lawn <br />
+the store became a charming house, <br />
+where some girl in a flowered blouse <br />
+sat on the porch, forlorn—would I <br />
+notice? If I commuted by <br />
+the sea, long grass and shining shore, <br />
+instead of the uncertain store?  </p>
+
+<p>I don't think I would ever see— <br />
+My eyes are always home to thee.  </p>
+</div>
+
+<div id="footer" class="container">
+</footer>
+
+<script>
+    var birthday = new Date(1990, 0, 22),
+        today = new Date(),
+        age = today.getFullYear() - birthday.getFullYear();
+
+    birthday.setFullYear(today.getFullYear());
+    if(today < birthday) age = age - 1;
+
+    document.getElementById('age').innerHTML = ', age ' + age;
+
+    var poetry = ["/away.html", "/doors.html", "/ink.html"];
+    document.getElementById('poetry').href = poetry[Math.floor(Math.random() * poetry.length)];
+</script>
