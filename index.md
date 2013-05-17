@@ -8,11 +8,11 @@ bleep bloop bleep
 glyphs
 ------
 
+- [I Love You](/iloveyou.html) [Essay] - musings on memory and language from a non-linguist
 - [Spires](/spires.html) [Short] - bad sci-fi
 - [Away](/away.html) [Poem]
 - [Behind Uncertain Doors](/doors.html) [Poem]
 - [She Must Accept Some Swirling Ink](/ink.html) [Poem]
-- [Microwave Literacy](/literacy.html) [Essay] - why everyone should learn to code
 
 friend groups
 -------------
