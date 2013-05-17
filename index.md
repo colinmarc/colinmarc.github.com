@@ -13,6 +13,7 @@ glyphs
 - [Away](/away.html) [Poem]
 - [Behind Uncertain Doors](/doors.html) [Poem]
 - [She Must Accept Some Swirling Ink](/ink.html) [Poem]
+- [Microwave Literacy](/literacy.html) [Essay] - why everyone should learn to code
 
 friend groups
 -------------
