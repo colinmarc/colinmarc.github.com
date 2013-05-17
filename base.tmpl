@@ -6,13 +6,13 @@
 <title>Colin Marc—</title>
 
 <div id="header" class="container">
-	<h1>Colin Marc—</h1>
-	<ul>
-	  <li class="email"><a href="mailto:colinmarc@gmail.com">colinmarc@gmail.com</a></li>
-	  <li class="twitter"><a href="http://twitter.com/colinmarc">@colinmarc</a></li>
-	  <li class="github"><a href="http://github.com/colinmarc">github.com/colinmarc</a></li>
-	</ul>
-	<div id="tagline">aspiring <a href="/">programmer</a>/<a href="poetry.html">poet</a><span id="age"></span>.</div>
+  <h1>Colin Marc—</h1>
+  <ul>
+    <li class="email"><a href="mailto:colinmarc@gmail.com">colinmarc@gmail.com</a></li>
+    <li class="twitter"><a href="http://twitter.com/colinmarc">@colinmarc</a></li>
+    <li class="github"><a href="http://github.com/colinmarc">github.com/colinmarc</a></li>
+  </ul>
+  <div id="tagline">aspiring <a href="/">programmer</a>/<a id="poetry" href="/">poet</a><span id="age"></span>.</div>
 </div>
 
 <div id="content" class="container">$content</div>
@@ -21,11 +21,15 @@
 </footer>
 
 <script>
-	var birthday = new Date(1990, 0, 22);
-	var today = new Date();
-	var age = today.getFullYear() - birthday.getFullYear();
-	birthday.setFullYear(today.getFullYear());
-	if(today < birthday) age = age - 1;
+    var birthday = new Date(1990, 0, 22),
+        today = new Date(),
+        age = today.getFullYear() - birthday.getFullYear();
 
-	document.getElementById('age').innerHTML = ', age ' + age;
+    birthday.setFullYear(today.getFullYear());
+    if(today < birthday) age = age - 1;
+
+    document.getElementById('age').innerHTML = ', age ' + age;
+
+    var poetry = ["/away.html", "/doors.html", "/ink.html"];
+    document.getElementById('poetry').href = poetry[Math.floor(Math.random() * poetry.length)];
 </script>

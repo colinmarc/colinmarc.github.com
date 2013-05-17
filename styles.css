@@ -10,16 +10,16 @@ body {
 }
 
 a {
-    color: teal;
+    color: #7ED6B9;
     text-decoration: none;
 }
 
 a:visited {
-    color: teal;
+    color: #7ED6B9;
 }
 
 a:hover {
-    color: rgb(2, 88, 88);
+    color: teal;
 }
 
 ul {
