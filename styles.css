@@ -10,16 +10,16 @@ body {
 }
 
 a {
-    color: #7ED6B9;
+    color: teal;
     text-decoration: none;
 }
 
 a:visited {
-    color: #7ED6B9;
+    color: teal;
 }
 
 a:hover {
-    color: teal;
+    color: rgb(2, 88, 88);
 }
 
 ul {
@@ -100,6 +100,21 @@ ul {
 
 #content li:before {
     content: "»  ";
+}
+
+#content hr {
+    border: none;
+    text-align: center;
+}
+
+#content hr:after {
+    content: "✱ ✱ ✱";
+    font-size: 11px;
+    color: dimgray;
+    display: inline-block;
+    position: relative;
+    padding: 0 0.25em;
+    text-align: center;
 }
 
 #footer {
