@@ -8,6 +8,7 @@ bleep bloop bleep
 glyphs
 ------
 
+- [Hemingway](/hemingway.html) [Essay] - really just a diary entry
 - [I Love You](/iloveyou.html) [Essay] - musings on memory and language from a non-linguist
 - [Spires](/spires.html) [Short] - bad sci-fi
 - [Away](/away.html) [Poem]
