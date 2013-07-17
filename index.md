@@ -6,16 +6,16 @@ bleep bloop bleep
 - [python issue #14204](http://hg.python.org/cpython/rev/2514a4e2b3ce) - I added NPN support to the ssl library in cpython
 - [philome.la](http://philome.la) - free twine hosting
 
-glyphs
+words
 ------
 
+- [Dreams from My Father](/dreams.html) [Essay] - blarghy blargh
 - [Hemingway](/hemingway.html) [Essay] - really just a diary entry
 - [I Love You](/iloveyou.html) [Essay] - musings on memory and language from a non-linguist
 - [Spires](/spires.html) [Short] - bad sci-fi
 - [Away](/away.html) [Poem]
 - [Behind Uncertain Doors](/doors.html) [Poem]
 - [She Must Accept Some Swirling Ink](/ink.html) [Poem]
-- [Microwave Literacy](/literacy.html) [Essay] - why everyone should learn to code
 
 friend groups
 -------------
