@@ -5,7 +5,7 @@ Silence
 
 *The idea for this story is stolen from an NPR story broadcast thing I heard once. The memory of the time I heard it is fresh; I remember the warm air coming through the open windows of the car, the person I was with, the scenery I stared at without seeing it - everything except for the name of the story itself. If you know the name of it, please [email me](mailto:colinmarc@gmail.com).*
 
-**New York City, 2004. August 2nd, 5:45 PM.**
+**Manhattan, New York City. August 2nd, 2004, 5:45 PM.**
 
 Heat and water choke the air, causing it to lie heavy, like a blanket, over the bustling city. If you were to (by some feat of magic or technology) hover passively between two skyscrapers, hundreds of feet in the air, the cacophany below might seem subdued and muffled.
 
