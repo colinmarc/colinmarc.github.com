@@ -17,7 +17,7 @@ Today, I told someone that it was "amazing to see their face" (I hadn't in a whi
 
 ***
 
-Poetry has been described as one of the most participatory of artistic mediums. My high school lit teacher said that poetry was an experience half created by the writer and half by the reader. He said that when you read poetry, the dense, packed meanings and feelings all tangled up inside the langage are released, and connect with your own experiences in strange and unpredictable ways. Together they make up an experience that's entirely your own.
+Poetry has been described as one of the most participatory of artistic mediums. My high school lit teacher said that poetry was an experience half created by the writer and half by the reader. He said that when you read poetry, the dense, packed meanings and feelings all tangled up inside the language are released, and connect with your own experiences in strange and unpredictable ways. Together they make up an experience that's entirely your own.
 
 By contrast, some language is less participatory. I think of film this way - there's a ton of authorial intent, visual, audial, etc - and you don't get to control the speed or pace at which you consume it. With film, you get more of the message, so there's a smaller proportion of the total experience that comes from your own mental landscape.
 
@@ -25,7 +25,7 @@ How would you evaluate the phrase "I love you" by that metric? It's a really str
 
 When you say it, you're releasing this flood of emotion - giving it an outlet. "I love you" is how we're trained to express feelings of intimacy, of loyalty, of sexual pleasure, or just of admiration. But you're also taking advantage of all the meaning, the weight behind the phrase itself. That's why you sometimes have to be careful who you say it to. And, I would argue, the trappings of the phrase are mostly what is received in the end.
 
-There's an intangible, psychological heft to the phrase, given to it by the fact that we hear it in movies and on tv and in books and from our parents. It's very similar to the weight attached to hurtful words, like racial slurs. The context and intent matter, sometimes, but often it's not the meaning itself that is transferred; like a molotov cocktail, the language explodes into our imagination, sparking memories and feelings and setting our subconcious alight.
+There's an intangible, psychological heft to the phrase, given to it by the fact that we hear it in movies and on TV and in books and from our parents. It's very similar to the weight attached to hurtful words, like racial slurs. The context and intent matter, sometimes, but often it's not the meaning itself that is transferred; like a molotov cocktail, the language explodes into our imagination, sparking memories and feelings and setting our subconscious alight.
 
 ***
 
