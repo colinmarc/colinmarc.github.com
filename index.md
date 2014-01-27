@@ -15,7 +15,7 @@ words
 - [tweets](/tweets.html) [Poem] - a poem about twitter, with it as a backdrop
 - [Dreams from My Father](/dreams.html) [Essay] - blarghy blargh
 - [Hemingway](/hemingway.html) [Essay] - really just a diary entry
-- [I Love You](/iloveyou.html) [Essay] - musings on memory and language from a non-linguist
+- [I Love You](/iloveyou.html) [Essay] - musings on memory and language
 - [She Must Accept Some Swirling Ink](/ink.html) [Poem]
 
 friend groups

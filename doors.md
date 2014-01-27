@@ -1,7 +1,7 @@
 Behind Uncertain Doors
 ----------------------
 
-**February 2012**
+<p class="date"><em>February 2012</em></p
 
 The walk to work runs past a store,   
 with dollar books by a red door,   

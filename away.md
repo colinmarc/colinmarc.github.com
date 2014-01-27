@@ -1,7 +1,7 @@
 Away
 ----
 
-**March 2013**
+<p class="date"><em>March 2013</em></p>
 
 his eyes fell, like his broken sighs  
 or, perhaps, raised, to blue-black skies  

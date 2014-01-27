@@ -1,7 +1,7 @@
 Hemingway
-=========
+---------
 
-**June 2013**
+<p class="date"><em>June 2013</em></p>
 
 There's a character I keep meeting in stories I read. He's a shadow, the text that the author wrote viewed through the warped glass of my own fears. Most recently, I met him in *The Sun Also Rises*, in the character of Jacob Barnes.
 

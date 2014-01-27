@@ -5,8 +5,22 @@ body {
 }
 
 .container {
-    width: 960px;
+    width: 700px;
     margin: 0 auto;
+}
+
+#content {
+    width: 500px;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+#content h2 {
+    text-align: center;
+}
+
+#content p.date {
+    text-align: center;
 }
 
 a {
@@ -40,7 +54,7 @@ ul {
     font-weight: 700;
     line-height: 80px;
     font-size: 5em;
-    width: 500px;
+    width: 475px;
     float: left;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
 }

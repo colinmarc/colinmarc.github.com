@@ -1,6 +1,7 @@
 Microwave Literacy 
 ==================
-*May 2012*
+
+<p class="date"><em>May 2012</em></p>
 
 *(this is a quasi-rebuttal to Jeff Atwood's post
 ["Please Don't Learn to Code."](http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html). If you're bored of the topic, you might want to stop

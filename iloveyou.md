@@ -1,7 +1,7 @@
 I Love You
-==========
+----------
 
-**May 2013**
+<p class="date"><em>May 2013</em></p>
 
 I was walking through the movie theater today, and I stopped to check out some random movie poster. It was some masculine guy, wearing a suit, walking towards the camera, holding a gun or something. He was in a city, or someplace that was very dusty. I don't remember.
 

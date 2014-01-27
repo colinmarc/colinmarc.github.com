@@ -1,7 +1,7 @@
 She Must Accept Some Swirling Ink
 ---------------------------------
 
-**May 2010**
+<p class="date"><em>May 2010</em></p>
 
 Before the caustic brute she cowers.  
 It shudders with stone and towers.  

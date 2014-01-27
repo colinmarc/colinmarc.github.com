@@ -1,7 +1,7 @@
 Dreams from My Father
 ---------------------
 
-**July 2013**
+<p class="date"><em>July 2013</em></p>
 
 I close my eyes, breathing
 

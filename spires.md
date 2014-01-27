@@ -1,7 +1,7 @@
 spires
 ------
 
-**April 2013**
+<p class="date"><em>April 2013</em></p>
 
 There's a strange place a little ways from the town where I grew up. Past the landfill, there's a small little hill that's smoother, rounder than it really should be.
 

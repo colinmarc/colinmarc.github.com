@@ -1,7 +1,7 @@
 Silence
 -------
 
-*July 2013*
+<p class="date"><em>July 2013</em></p>
 
 **Manhattan, New York City. August 2nd, 2004, 5:45 PM.**
 

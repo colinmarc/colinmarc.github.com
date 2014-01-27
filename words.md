@@ -1,7 +1,7 @@
 Words
 -----
 
-**January 2014**
+<p class="date"><em>January 2014</em></p>
 
 I shout into the dark, and you hear maybe a breath—  
 Or a nonsense chatter, the kind made by a crowd  
