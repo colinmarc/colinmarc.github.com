@@ -12,7 +12,6 @@ words
 - [Words](/words.html) [Poem] - another poem about poetry
 - [my job](http://philome.la/colinmarc/my-job) [Poem] - a twine poem about writing
 - [Silence](/silence.html) [Short] - a sf short story ripped off from a live telling I heard once
-- [tweets](/tweets.html) [Poem] - a poem about twitter, with it as a backdrop
 - [Dreams from My Father](/dreams.html) [Essay] - blarghy blargh
 - [Hemingway](/hemingway.html) [Essay] - really just a diary entry
 - [I Love You](/iloveyou.html) [Essay] - musings on memory and language
