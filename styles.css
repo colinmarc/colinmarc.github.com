@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-    width: 700px;
+    width: 500px;
     margin: 0 auto;
 }
 
@@ -91,19 +91,25 @@ ul {
     font-size: 10px;
 }
 
-#header ul li.email:before {
+#links a {
+  margin-left: 5px;
+  position: relative;
+  top: 1px;
+}
+
+#links a.email:before {
     font-family: 'FontAwesome';
     content: "\f003";
     font-size: 13px;
 }
 
-#header ul li.twitter:before {
+#links a.twitter:before {
     font-family: 'FontAwesome';
     content: "\f099";
     font-size: 13px;
 }
 
-#header ul li.github:before {
+#links a.github:before {
     font-family: 'FontAwesome';
     content: "\f09b";
 }
