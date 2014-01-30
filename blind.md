@@ -3,7 +3,7 @@ Blind
 
 <p class="date"><em>January 2014</em></p>
 
-Will stepped out into the cold air one October afternoon and was surprised to find the campus square had become all brown and grey when he wasn’t paying attention. He was pretty sure it had been green just the other day, and it was much colder than it was supposed to be. Peering at the twiggy trees with their scarves of leaves and the stale grass, he wondered—how many things changed quietly like this, without him noticing?
+Will stepped out into the cold air one October afternoon and was surprised to find the campus square had become all brown and grey when he wasn’t paying attention. He was pretty sure it had been green just a few weeks ago, when he had moved in, and it was much colder than it was supposed to be. Peering at the twiggy trees with their scarves of leaves and the stale grass, he wondered—how many things changed quietly like this, without him noticing?
 
 He pulled at the edges of this idea as he walked, thinking on the hidden machinery of the world, not just the natural machinery but the plumbing and electric and roads and governments and everything. And of the children withering and dying in Africa, or wherever, and how he was blind to that, self-absorbed, like he was to the trees and the grass of his quad.
 
@@ -105,7 +105,9 @@ But avoiding normalcy at all costs was a form of weakness too—he was certain t
 
 ***
 
-Later, after Matt and Jackie had gone to bed, Will and Karen stayed up to drink and smoke.  They had dropped the personas, the roleplaying, mostly, to Will’s relief. Karen had opened a window behind the couch to let the smoke out, and so to keep warm they draped a blanket over both their feet and sat across from each other, each at one end of the couch. The ashtray sat on the floor, with a little bits of ash sitting around it from when one of them had missed. Will periodically fidgeted with his phone—still no response—and balanced his beer on the back of the couch, above him.
+Later, after Matt and Jackie had gone to bed, Will and Karen stayed up to drink and smoke.  They had dropped the personas, the roleplaying, mostly, to Will’s relief—although they now seemed to be roleplaying something else.
+
+Karen had opened a window behind the couch to let the smoke out, and so to keep warm they draped a blanket over both their feet and sat across from each other, each at one end of the couch. The ashtray sat on the floor, with a little bits of ash sitting around it from when one of them had missed. Will periodically fidgeted with his phone—still no response—and balanced his beer on the back of the couch, above him. He was fairly confident he knew what this was, and what supposed to happen next.
 
 Karen was pontificating. “I guess what I’m saying is… like, with planes. There must be some, just, magic that makes them fly. You know?”
 
@@ -235,7 +237,7 @@ Soon, more people had filtered in. Will was concerned that the average age of th
 
 Now the room was mostly full. Will shifted, uncomfortable, between Piper and an older woman with long black hair who had introduced herself as Beverly. A broad-shouldered middle-aged man with greying temples stood up.
 
-“Hi everyone! Welcome to the Wilbur chapter of the Sacred Harp. I see some new faces here, as usual, so I’ll do my best to explain what’s going. The song book beneath your seat is an old, traditional book of songs in the tradition of what’s called “shape note” singing. It’s a tradition that dates back to the Colonial days in American History.
+“Hi everyone! Welcome to the Wilbur chapter of the Sacred Harp. I see some new faces here, as usual, so I’ll do my best to explain what’s going on. The song book beneath your seat is an old, traditional book of songs in the tradition of what’s called “shape note” singing. It’s a tradition that dates back to the Colonial days in American History.
 
 “A lot of music made today, just like music back then, is made out to be very difficult. If you’re not a professional singer or musician, then, they say, you’re not good enough to sing. We think that’s nonsense - singing is a personal, wonderful thing, and everyone should do it as much as they want. Shape note music makes it easier to learn, but more importantly, there’s no audience; we sing together for our enjoyment, not as an art form. Sing loud enough that you can’t hear the person next to you.”
 
@@ -245,7 +247,7 @@ With the man in the center leading them, his arm waving up and down to the rhyth
 
 Will, hesitant, stayed mostly silent, watching Piper. She, too, was entranced, consumed by the music. Her eyes were half-closed, and her arm raised and fell gently with everyone else’s. She sang loudly, but her voice was not harsh like some of the others’. It was gentle.
 
-After first singing just the syllables (“fa-sol-la-sol-la-fa”), they sang again the entire song again, but with the words. This time, the melody coalesced for him a bit more, and he was able to sing along a bit. Will tried his best to follow his part, but he still felt like an outsider to whatever experience the singers, and Piper, shared.
+After first singing just the syllables (“fa-sol-la-sol-la-fa”), they sang the entire song again, but with the words. This time, the melody coalesced for him a bit more, and he was able to sing along a bit. Will tried his best to follow his part, but he still felt like an outsider to whatever experience the singers, and Piper, shared.
 
 ***
 
@@ -265,7 +267,7 @@ Shrugging, she said, “Pretty often. He’s really busy…” and trailed off.
 
 “Are you worried about drifting apart?” Will asked, probing.
 
-Piper just shrugged again. Will decided to try a different tack, and asked her about her classes. She opened to this, and talked about how much she loved her freshman seminar (devoted to Shakespeare’s sonnets) and how much she hated the math class they shared, how it made her feel dumb—she seemed to say that a lot. She shyly admitted that she wrote some simple poetry, and promised to show him some. As she talked, she absent-mindedly fingered the rainbow of plastic bracelets on her wrists.
+Piper just shrugged again. Will decided to try a different tack, and asked her about her classes. She opened up to this, and talked about how much she loved her freshman seminar (devoted to Shakespeare’s sonnets) and how much she hated the math class they shared, how it made her feel dumb—she seemed to say that a lot. She shyly admitted that she wrote some simple poetry, and promised to show him some. As she talked, she absent-mindedly fingered the rainbow of plastic bracelets on her wrists.
 
 ***
 
@@ -305,7 +307,7 @@ Piper emerged from the bathroom a few moments later, fully clothed. She smiled a
 
 In response he leaned forward, turned his head, and planted a long kiss on the warm, wet skin of her neck, below her ear.
 
-She flinched away, turned, confused, towards him. Her cheerful manner melted away. “What… what are you doing?”
+She flinched away, turned, confused, towards him. Her cheerful smile melted away. “What… what are you doing?”
 
 He leaned forward to kiss her on the lips, but she pushed him back. “Will, what the fuck?”
 
@@ -317,9 +319,9 @@ Will sat back, confused and frustrated. “I… Don’t you want me to?”
 
 Will felt a blush of anger as he looked at her face, confusion and hurt spreading across it. But this anger quickly wilted to shame, and he put his heads in his hands. “Oh god, Piper, I’m sorry.”
 
-“It’s alright, I guess. You’re… I’m glad we’re friends, Will, but I don’t like you like that.” She patted him on the shoulder, and he looked up at her sadly.
+“It’s alright, I guess. You’re… I’m glad we’re friends, Will, but I don’t like you like that.” She patted him on the shoulder, and he looked back up at her.
 
-“Yeah, that’s fine. I’m sorry.” Will sighed a little. “Can we watch a movie?”
+“Yeah, that’s fine. I’m sorry.” Will sighed, a little dramatically. “Can we watch a movie?”
 
 “Um, okay.” She sat next to him on the bed, although further away than usual, and started a movie. Will couldn’t even bear to look at the screen.
 
