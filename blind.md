@@ -41,9 +41,9 @@ In the morning they would cuddle, and he would tell her about his dad, and she w
 
 ***
 
-After class (the entirety of which was consumed by this fantasy), and after returning, shivering, to his dorm, Will stopped by Tim’s room, down the hall from his own, to retrieve Julia’s number.
+After class (the entirety of which was consumed by this fantasy), and after returning, shivering, to his dorm, Will stopped by Tim’s room, down the hall from his own, to ask for Julia’s number.
 
-Tim was a friend, if not a close one—their significance to each other had increased by virtue of the fact that they were now at the same college. He had been one of the lazy, media-focused kids that Will had liked to associate with in high school. In groups, they’d swarmed game stores and internet cafes, movie theaters, and the like. Tim was different from his family, soft and easygoing while his older brother and sister were star athletes (Tim’s older sister had been on the swimming team with Julia), and his parents were bankers or something. And he smoked, which he kept a secret from them. He was eager and conspiratorial, happy to help.
+Tim was a friend, if not a close one—their significance to each other had increased by virtue of the fact that they were now at the same college. He had been one of the lazy, media-focused kids that Will had liked to associate with in high school. In groups, they’d swarmed game stores and internet cafes, movie theaters, and the like. Tim was different from his family, soft and easygoing while his older brother and sister were star athletes (Tim’s older sister had been on the swimming team with Julia), and his parents were bankers or something. And he smoked, which he kept a secret from them. He was eager and conspiratorial, happy to help, as was his obligation.
 
 Then Will lay in his dorm bed, did a bit of homework, and played a game on his phone. His roommate, Finn, was conspicuously absent. At 7 or 8 he got a text from a friend inviting him to dinner, so he suited up (this time with a hoodie under his jacket) and headed out.
 
@@ -147,15 +147,15 @@ After a long pause in which both of them where silent, Will put down his beer. H
 
 “Oh, is that what you want?” He refused to hear the resignation in her voice, and got up on his knees, moving towards her on the couch. He moved to kiss her, but she held his face back gently.
 
-“No, no kissing.” This annoyed and perplexed Will, and he tried to kiss her neck, but she stopped him again, held him back. Instead she leaned back and took off her shirt, leaving her bra on, and guided his head downwards. Her skin was smooth to the touch, and covered in stretch marks, each like a weird pale scar. As romantically as he could, Will lightly kissed the tops of her breasts, moving downwards to the frilly edge of her bra. She moaned slightly as he did this, but Will wasn’t sure if it was genuine.
+“No, no kissing.” This annoyed and perplexed Will, and he tried to kiss her neck, but she stopped him again, held him back. Instead she leaned back and took off her shirt, leaving her bra on, and guided his head downwards. Her skin was smooth to the touch, and covered in stretch marks, each like a weird pale scar. As romantically as he could, Will lightly kissed the tops of her breasts, moving downwards to the frilly edge of her bra. She moaned slightly as he did this, but Will wasn’t sure if it was genuine. Suddenly she told Will to sit back—“I give really good head,” she said—and went down on him.
 
-Suddenly she told Will to sit back—“I give really good head,” she said—and went down on him. His mind wandered. This went on for about thirty minutes before they both gave up and he saw himself out.
+He leaned back and looked at the ceiling; distracted and uncomfortable, his mind wandered. Why was he here, he wondered? He felt like he had not made a conscious choice, had not actually decided to put himself in this position. It felt like his actions had been decided by some greater power.
 
-Standing outside in the cold air, feeling a bit relieved, Will checked his phone. Zero texts.
+After thirty minutes of nothing they both gave up, and he saw himself out. Standing outside in the cold air, feeling a bit relieved, Will checked his phone. Zero texts.
 
 ***
 
-Will was walking down the hallway of a school building the next day, trailing his hand against the brick, lockers, brick, lockers, when he started thinking about the other night, and what had happened with Karen. Something bothered him, like a twist in his stomach, so he turned and dived and plummeted down the stairs, two, three, four steps at a time, letting the rushing air knock the thoughts out of his head. On the third flight, he tripped on someone.
+Will was walking down the hallway of a school building the next day, trailing his hand against the brick, lockers, brick, lockers, when he started thinking about the previous night, and what had happened with Karen. This bothered him, like a twist in his stomach, so he turned and dived and plummeted down the stairs, two, three, four steps at a time, letting the rushing air knock the thoughts out of his head. On the third flight, he tripped on someone.
 
 After he had steadied himself halfway down the next flight, he turned around and started spewing frantic apologies. The girl, who he recognized as from his math class—short, cropped brown hair, small features—waited patiently for him to finish.
 
@@ -271,7 +271,7 @@ Piper just shrugged again. Will decided to try a different tack, and asked her a
 
 ***
 
-As the days got shorter and colder, Will was surprised, and pleased, to discover a growing bond of friendship between them. He made up excuses to spend time with her whenever he could, and she seemed to welcome the attention. He quickly found more and more of his time devoted to spending time with her. He ate lunch with her after their math class (the only class he was currently attending), studied with her for tests, even went to singings with her every once in a while.
+As the days got shorter and colder, Will was surprised, and pleased, to discover a growing bond of friendship between them. He made up excuses to spend time with her whenever he could, and she seemed to welcome the attention. He quickly found more and more of his time devoted to spending time with her; he ate lunch with her after their math class (the only class he was currently attending), studied with her for tests, even went to singings with her every once in a while.
 
 In her dorm or his, they often sat together, talked, watched old movies. He would sit with her on the bed, her laptop cradled between them, always a few inches apart, consumed by the thought, the fantasy, of her leaning slightly into him, putting her weight on his shoulder. His eyes would wander to his hands, and he would will them to move around her, but something held him back every time. Once he did put his arm around her neck, acting nonchalantly, but she quickly got up to go to the bathroom and the opportunity was missed.
 
@@ -281,7 +281,7 @@ He fantasized about her constantly, imagining the softness of her lips and her h
 
 ***
 
-The first snow of the year was in mid-November, on a Friday night. Finn had gone home to his parents’ house, so Will stayed up late just to watch, from his window, the big white flakes float lazily down. It was impossibly peaceful, and when he held his breath the silence became louder and louder.
+The first snow of the year was in mid-November, on a Friday night. Finn had gone home to his parents’ house, so Will stayed up late just to watch, from his window, the big white flakes float lazily down. It was impossibly peaceful, and when he held his breath the silence became a quiet roar.
 
 When he woke up the next morning and went to the window again, the quiet had been replaced with a cheerful chatter. He could see lots of other students dancing around in the snow in the quad, starting snowball fights and rolling in the snow.
 
@@ -301,7 +301,7 @@ It took him a second of confusion before he realized that it was Piper’s, and 
 
 He turned to shout, ask her about it, but stopped when he saw that she had left the door ajar to the bathroom. The apartment was completely silent, besides the steady sound of the shower. Was she waiting for him, in there? He imagined her smooth skin under the water, her hair wet, steam rising around her, beckoning him to join her, put his arms around her…
 
-Before he could take a step towards the door, though, he heard the shower stop. He turned to her bed and sat on it. The room seemed to slowly spin.
+Before he could take a step towards the door, though, he heard the shower stop. He turned to her bed and sat on it, conscious of his breathing.
 
 Piper emerged from the bathroom a few moments later, fully clothed. She smiled at him, grabbed her laptop from the desk, and sat beside and a bit in front of him, opening it. “What do you want to watch? I downloaded a few things—”
 
@@ -313,22 +313,42 @@ He leaned forward to kiss her on the lips, but she pushed him back. “Will, wha
 
 Will sat back, confused and frustrated. “I… Don’t you want me to?”
 
-“No! You know I have a boyfriend.”
+“Uh—you know I have a boyfriend.”
 
 “Well, I just—I really like you, and I thought—“ he trailed off.
 
 Will felt a blush of anger as he looked at her face, confusion and hurt spreading across it. But this anger quickly wilted to shame, and he put his heads in his hands. “Oh god, Piper, I’m sorry.”
 
-“It’s alright, I guess. You’re… I’m glad we’re friends, Will, but I don’t like you like that.” She patted him on the shoulder, and he looked back up at her.
+“It’s alright, I guess. You’re… I’m glad we’re friends, Will, but I don’t like you like that.” She patted him on the shoulder.
 
-“Yeah, that’s fine. I’m sorry.” Will sighed, a little dramatically. “Can we watch a movie?”
+“Yeah, that’s fine. I’m sorry.” Will sighed a little. “Well, can we still watch a movie?”
 
-“Um, okay.” She sat next to him on the bed, although further away than usual, and started a movie. Will couldn’t even bear to look at the screen.
+“Um, okay.” She sat next to him on the bed, although further away than usual, and started a movie. Will couldn’t even bear to look at the screen.  The room seemed to slowly spin.
 
-Long minutes passed. After a while he leaned over and rested his head on her shoulder. She didn’t say anything, and a few seconds later he turned his head and kissed her on the cheek.
+Long minutes passed. After a while he leaned over and rested his head on her shoulder. She didn’t say anything, and a few seconds later he turned his head and kissed her on the cheek. “Piper,” he asked, quietly.
 
 She tensed, and shifted away, and then looked back at him squarely, gathering herself. “Will, I think you should probably go.”
 
 He didn’t respond, and leaned forward to kiss her again, and her hands came up to block him, but he pushed them aside, forced through. He kissed her, hard, on the mouth, pushing her back onto the pillows, brought his hands to her face and kissed her again and again, down her cheek, down her neck. She was stiff, unresponsive, and when he sat back up he saw that her eyes were open, frozen into expression that he did not recognize. Then he closed his own eyes, and the door slammed, and she was gone.
 
-After a few seconds or minutes, He grabbed his coat and rushed outside after her. Shivering and blinded by sunlight, he scanned the groups of cheerful students, but she was nowhere among them. They ignored him, or did not see him. They seemed alien to him, each bright and ghostly; the weight of all their lives pulled on him like so many threads, and he fell to his knees.
+After a few seconds or minutes, He grabbed his coat and rushed outside after her. Shivering and blinded by sunlight, he scanned the groups of cheerful students, but she was nowhere among them. They ignored him, or did not see him. They seemed alien to him, each bright and ghostly; he quickly hid his face.
+
+***
+
+The next day, Will took a long walk with Finn to the liquor store in town (there was one on campus, but it was much more likely to closely inspect Finn’s fake ID).  The snow, fresh and new yesterday, was already slushy and dirty from the salting trucks and plows. They plodded through it resignedly, often forced off the sidewalk and into the road by crusty banks.
+
+Will was despondent, and Finn was gruff, big-brotherly, although he was only a few months older. Will had explained what had happened, although he had left out the fact that they had never been together at all, ashamed of the reality of it. If the story seemed incongruous to Finn, he hadn’t said anything.
+
+“Well, you know, sometimes things just don’t work out,” he was saying, for the tenth time.
+
+“Yeah, I just feel like I did everything I was supposed to. Like I did everything right,” Will responded, again.
+
+The conversation paused while a truck carefully maneuvered around them.
+
+“You really liked her, huh?”
+
+“Yeah, I think maybe she was it.”
+
+A long pause. “Nah, man. There will be others.”
+
+“Maybe, I guess.” Silently, Will hoped that he was wrong. He felt like a pawn, trapped in a game that did not respect him; a game that he was slowly losing.
